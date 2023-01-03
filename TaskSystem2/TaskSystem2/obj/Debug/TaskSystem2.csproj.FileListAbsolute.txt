@@ -1,0 +1,16 @@
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\bin\Debug\TaskSystem2.exe.config
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\bin\Debug\TaskSystem2.exe
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\bin\Debug\TaskSystem2.pdb
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2.csproj.AssemblyReference.cache
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\Views\MainWindow.g.cs
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\App.g.cs
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2_MarkupCompile.cache
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2_MarkupCompile.lref
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\Views\MainWindow.baml
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2.g.resources
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2.Properties.Resources.resources
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2.csproj.GenerateResource.cache
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2.csproj.CoreCompileInputs.cache
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2.exe
+C:\Users\alirz\source\repos\TaskSystem2\TaskSystem2\obj\Debug\TaskSystem2.pdb
